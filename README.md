@@ -1,2 +1,2 @@
-# Crian-meu-Mundo
+# Criand-meu-Mundo
 Redigindo minha Trajetória como iniciante em Desenvolvimento
